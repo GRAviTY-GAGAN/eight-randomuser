@@ -17,9 +17,9 @@ function App() {
     const { data } = await axios.get('https://randomuser.me/api/');
     console.log("RESOPNSE: ", data.results[0].location);
 
-    const details = data.results[0];
+    const cardDetails = data.results[0];
 
-    setDetails(details)
+    setDetails(cardDetails)
 
   }
   
