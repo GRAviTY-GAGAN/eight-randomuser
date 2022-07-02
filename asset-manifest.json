@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/eight-randomuser/static/css/main.a2a41c51.chunk.css",
+    "main.js": "/eight-randomuser/static/js/main.5e33e22a.chunk.js",
+    "main.js.map": "/eight-randomuser/static/js/main.5e33e22a.chunk.js.map",
+    "runtime-main.js": "/eight-randomuser/static/js/runtime-main.c959d0bf.js",
+    "runtime-main.js.map": "/eight-randomuser/static/js/runtime-main.c959d0bf.js.map",
+    "static/css/2.3661fc73.chunk.css": "/eight-randomuser/static/css/2.3661fc73.chunk.css",
+    "static/js/2.1b1be156.chunk.js": "/eight-randomuser/static/js/2.1b1be156.chunk.js",
+    "static/js/2.1b1be156.chunk.js.map": "/eight-randomuser/static/js/2.1b1be156.chunk.js.map",
+    "static/js/3.c7cf3d7c.chunk.js": "/eight-randomuser/static/js/3.c7cf3d7c.chunk.js",
+    "static/js/3.c7cf3d7c.chunk.js.map": "/eight-randomuser/static/js/3.c7cf3d7c.chunk.js.map",
+    "index.html": "/eight-randomuser/index.html",
+    "precache-manifest.56f1458c756726dfee3566e36f4d26b9.js": "/eight-randomuser/precache-manifest.56f1458c756726dfee3566e36f4d26b9.js",
+    "service-worker.js": "/eight-randomuser/service-worker.js",
+    "static/css/2.3661fc73.chunk.css.map": "/eight-randomuser/static/css/2.3661fc73.chunk.css.map",
+    "static/css/main.a2a41c51.chunk.css.map": "/eight-randomuser/static/css/main.a2a41c51.chunk.css.map",
+    "static/js/2.1b1be156.chunk.js.LICENSE.txt": "/eight-randomuser/static/js/2.1b1be156.chunk.js.LICENSE.txt",
+    "static/js/main.5e33e22a.chunk.js.LICENSE.txt": "/eight-randomuser/static/js/main.5e33e22a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c959d0bf.js",
+    "static/css/2.3661fc73.chunk.css",
+    "static/js/2.1b1be156.chunk.js",
+    "static/css/main.a2a41c51.chunk.css",
+    "static/js/main.5e33e22a.chunk.js"
+  ]
+}
